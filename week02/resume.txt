@@ -1,16 +1,17 @@
-<html>
-    <head>
-        <title>Resume</title>
-    </head>
-    <body>
-        <div>
-            <h1><a href="">Resume</a></h1>
-        </div>
+Casey E. Cantu
+caseyemmanuel@my.codergv.org
 
-        <div>
-            <h2><a href="">Work Experience</a></h2>
-            <p>Jinks Realty</p>
-            <p>Real estate assistant</p>
-            <p>Flexi Compras</p>
-            <p>Sales associate</p>
-        </div>
+## Work Experience
+
+**Real Estate Assistant, Jinks Realty**
+  Assisted realtors in sales and promotion
+
+**Sales Associate, Flexi Compras**
+  Did stuffs
+
+## Education
+
+**University of Texas - Rio Grande Valley**
+  Studied Stuffs
+**Texas State Technical College - Harlingen**
+  Studied other stuffs
